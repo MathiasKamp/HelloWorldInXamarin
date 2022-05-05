@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZT/SLIMsYrfPH5vq/iJn1/Uu9I32mNuGyyg5RDoEz7BCQsUn7TjMKj7yc9hD8wPq77vluqUvkj29WCUonxm7xQ==",
+  "success": true,
+  "projectFilePath": "D:\\projects\\HelloWorldInXamarin\\HelloWorldInXamarin\\HelloWorldInXamarin.iOS\\HelloWorldInXamarin.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mk\\.nuget\\packages\\xamarin.forms\\4.8.0.1821\\xamarin.forms.4.8.0.1821.nupkg.sha512"
+  ],
+  "logs": []
+}

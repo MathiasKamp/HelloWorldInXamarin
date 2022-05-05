@@ -1,0 +1,13 @@
+D:\projects\HelloWorldInXamarin\HelloWorldInXamarin\HelloWorldInXamarin\bin\Debug\netstandard2.0\HelloWorldInXamarin.deps.json
+D:\projects\HelloWorldInXamarin\HelloWorldInXamarin\HelloWorldInXamarin\bin\Debug\netstandard2.0\HelloWorldInXamarin.dll
+D:\projects\HelloWorldInXamarin\HelloWorldInXamarin\HelloWorldInXamarin\bin\Debug\netstandard2.0\HelloWorldInXamarin.pdb
+D:\projects\HelloWorldInXamarin\HelloWorldInXamarin\HelloWorldInXamarin\obj\Debug\netstandard2.0\HelloWorldInXamarin.csproj.AssemblyReference.cache
+D:\projects\HelloWorldInXamarin\HelloWorldInXamarin\HelloWorldInXamarin\obj\Debug\netstandard2.0\HelloWorldInXamarin.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\HelloWorldInXamarin\HelloWorldInXamarin\HelloWorldInXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\projects\HelloWorldInXamarin\HelloWorldInXamarin\HelloWorldInXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\projects\HelloWorldInXamarin\HelloWorldInXamarin\HelloWorldInXamarin\obj\Debug\netstandard2.0\HelloWorldInXamarin.AssemblyInfoInputs.cache
+D:\projects\HelloWorldInXamarin\HelloWorldInXamarin\HelloWorldInXamarin\obj\Debug\netstandard2.0\HelloWorldInXamarin.AssemblyInfo.cs
+D:\projects\HelloWorldInXamarin\HelloWorldInXamarin\HelloWorldInXamarin\obj\Debug\netstandard2.0\HelloWorldInXamarin.csproj.CoreCompileInputs.cache
+D:\projects\HelloWorldInXamarin\HelloWorldInXamarin\HelloWorldInXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+D:\projects\HelloWorldInXamarin\HelloWorldInXamarin\HelloWorldInXamarin\obj\Debug\netstandard2.0\HelloWorldInXamarin.dll
+D:\projects\HelloWorldInXamarin\HelloWorldInXamarin\HelloWorldInXamarin\obj\Debug\netstandard2.0\HelloWorldInXamarin.pdb
